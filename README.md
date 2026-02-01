@@ -30,7 +30,7 @@ I enjoy turning data into actionable insights using **Python, SQL, Power BI, and
 
 ## 🔗 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-hanadisdiri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanadi-sdiri-4978373)  
+[![Linkedin Badge](https://img.shields.io/badge/-hanadisdiri-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hanadi-Sdiri-4978373)  
 [![Mail Badge](https://img.shields.io/badge/-hanadisdiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hanadisdiri@gmail.com)
 
 ---
